@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGameRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameRecord>
+    <RecordID>1</RecordID>
+    <Result>Defused</Result>
+    <Seed>1425458450</Seed>
+    <Components>
+      <ComponentTypeEnum>Timer</ComponentTypeEnum>
+      <ComponentTypeEnum>BigButton</ComponentTypeEnum>
+      <ComponentTypeEnum>Wires</ComponentTypeEnum>
+      <ComponentTypeEnum>Keypad</ComponentTypeEnum>
+    </Components>
+    <MissionID>firsttime</MissionID>
+    <ModuleSolveCount>3</ModuleSolveCount>
+    <TimeElapsed>84.68204</TimeElapsed>
+    <LeaderboardRank>0</LeaderboardRank>
+    <RealTimeElapsed>90.95564</RealTimeElapsed>
+    <Strikes>
+      <StrikeSource>
+        <ComponentType>Keypad</ComponentType>
+        <InteractionType>PushButton</InteractionType>
+        <Time>75.76553</Time>
+      </StrikeSource>
+      <StrikeSource xsi:nil="true" />
+      <StrikeSource xsi:nil="true" />
+    </Strikes>
+  </GameRecord>
+</ArrayOfGameRecord>

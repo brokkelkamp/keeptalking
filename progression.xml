@@ -17,10 +17,22 @@
         <boolean>true</boolean>
       </value>
     </item>
+    <item>
+      <key>
+        <string>firsttime</string>
+      </key>
+      <value>
+        <boolean>true</boolean>
+      </value>
+    </item>
   </MissionProgression>
   <LastUnlockedBombClass>1</LastUnlockedBombClass>
   <HasWatchedGameOverview>true</HasWatchedGameOverview>
   <HasCompletedControlsTutorial>true</HasCompletedControlsTutorial>
   <HasStartedAGame>true</HasStartedAGame>
-  <DisarmedComponentTypes />
+  <DisarmedComponentTypes>
+    <ComponentTypeEnum>Wires</ComponentTypeEnum>
+    <ComponentTypeEnum>BigButton</ComponentTypeEnum>
+    <ComponentTypeEnum>Keypad</ComponentTypeEnum>
+  </DisarmedComponentTypes>
 </ProgressionData>
